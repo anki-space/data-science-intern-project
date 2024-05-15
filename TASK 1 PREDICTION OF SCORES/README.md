@@ -1,0 +1,1 @@
+This model predicts the SCORES of the students based on hours studied using Linear Regression model.
